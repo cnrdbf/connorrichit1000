@@ -40,7 +40,7 @@ I am very new to coding and programming so my current skills in the IT field are
   <div id="media">
     <h2>Media</h2>
     <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
-    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width=320 height=240 controls> Video not supported
+    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width=320 height=240 controls> 
     </video>
   </div>
 </body>
