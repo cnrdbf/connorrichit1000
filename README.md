@@ -13,7 +13,7 @@ I am very new to coding and programming so my current skills in the IT field are
 
 <img width="573" alt="Screen Shot 2020-12-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/75334721/101729965-c6c4ab00-3a7e-11eb-8697-17383ff00c86.png">
 
-I do have plenty of sales experience with my current job at TigerTech in the Mizzou Store. I work well under pressure and have good problem-solving skills, which is one of the reasons I choose this major.
+I do have plenty of sales experience with my current job at [TigerTech](./https://www.themizzoustore.com/t-tigertech.aspx) in the Mizzou Store. I work well under pressure and have good problem-solving skills, which is one of the reasons I choose this major.
 
 [Go back to home page](./README.md)
 
