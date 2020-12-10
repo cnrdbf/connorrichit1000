@@ -9,7 +9,7 @@ I was born and raised here in Columbia, Missouri. I graduated from Hickman High 
 [Go back to home page](./README.md)
 
 ## Skills and Experience 
-I am very new to coding and programming so my current skills in the IT field are very limited and basic at the moment but I do have a little bit of practice. Below is a code block I have created in Code Academy about Brown Bears.
+I am very new to coding and programming so my current skills in the IT field are very limited and basic at the moment but I do have a little bit of practice. Below is a code block I have created in *Code Academy* about Brown Bears.
 
 <img width="573" alt="Screen Shot 2020-12-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/75334721/101729965-c6c4ab00-3a7e-11eb-8697-17383ff00c86.png">
 
