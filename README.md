@@ -8,7 +8,7 @@ You can nagivate my website with the *Table of Contents* here
 * [Background](./Background.md)
 * [Skills and Experience](./Skillsandexperience.md)
 * [Interests](./Interests.md)
-* [Goals](./Goals.md)
+* [Goals](./goals.md)
 Background.md
 ## Background
 I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in Information Technology. 
@@ -37,7 +37,7 @@ I love playing many playing and watching sports such as football and basketball.
 ![image](https://user-images.githubusercontent.com/75334721/101730154-21f69d80-3a7f-11eb-891e-115a69d2605f.jpeg)
 
 [Go back to home page](./README.md)
-Goals.md
+goals.md
 ## Goals
 My career goals are to find a job I enjoy and get paid well in the IT field and eventually create my own business.
 [Go back to home page](./README.md)
