@@ -7,7 +7,7 @@ README.md
 </body>
   
 ## Background
-I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a>
+I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a> If you wish to learn more about my background, [click here](https://github.com/cnrdbf/Background.git)
 
 [Go back to home page](./README.md)
 
