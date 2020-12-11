@@ -23,7 +23,7 @@ I am very new to coding and programming so my current skills in the IT field are
 - Motion Design
 - Markdown
 
-I also have a decent amount of sales experience with my current job at <a href="https://www.themizzoustore.com/t-tigertech.aspx">TigerTech</a> in the Mizzou Store. I work well under pressure and have good problem-solving skills, which is one of the reasons I choose this major.
+If you wish to learn more about **other** non-IT related skills and experiences I have, [click here](https://github.com/cnrdbf/Skills-and-Experience.git)
 
 [Go back to home page](./README.md)
 
