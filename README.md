@@ -4,7 +4,7 @@ README.md
 Hello, my name is Connor Richardson. The goal of this page is to provide you with some general information about me.
 
 ## Background
-I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="Information Technology">https://majors.missouri.edu/information-technology-bs/</a>
+I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a>
 
 [Go back to home page](./README.md)
 
@@ -20,7 +20,7 @@ I am very new to coding and programming so my current skills in the IT field are
 - Motion Design
 - Markdown
 
-I also have a decent amount of sales experience with my current job at <a href="TigerTech">https://www.themizzoustore.com/t-tigertech.aspx</a> in the Mizzou Store. I work well under pressure and have good problem-solving skills, which is one of the reasons I choose this major.
+I also have a decent amount of sales experience with my current job at <a href="https://www.themizzoustore.com/t-tigertech.aspx">TigerTech</a> in the Mizzou Store. I work well under pressure and have good problem-solving skills, which is one of the reasons I choose this major.
 
 [Go back to home page](./README.md)
 
