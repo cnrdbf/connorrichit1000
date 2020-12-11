@@ -28,7 +28,7 @@ I also have a decent amount of sales experience with my current job at <a href="
 [Go back to home page](./README.md)
 
 ## Interests
-I love playing many playing and watching sports such as football and basketball. My favorite football team is the Kansas City Chiefs. I also enjoy playing many different video games. My all-time favorite being **_Skyrim_**. 
+I enjoy watching and playing many sports and video games in my free time. If you would like to learn about that, [click here.](https://github.com/cnrdbf/Interests.git)
 
 ![image](https://user-images.githubusercontent.com/75334721/101730154-21f69d80-3a7f-11eb-891e-115a69d2605f.jpeg)
 
