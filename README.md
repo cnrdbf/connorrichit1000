@@ -1,8 +1,11 @@
 README.md
 # Connor Richardson
 ## Home Page
-Hello, my name is Connor Richardson. The goal of this page is to provide you with some general information about me.
-
+<h4>Hello, my name is Connor Richardson.</h4>
+<body>
+<p>The goal of this page is to provide you with some general information about me.</p>
+</body>
+  
 ## Background
 I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a>
 
