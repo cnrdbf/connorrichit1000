@@ -7,7 +7,7 @@ README.md
 </body>
   
 ## Background
-I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a> If you wish to learn more about my background, [click here](https://github.com/cnrdbf/Background.git)
+I was born and raised here in Columbia, Missouri. I graduated from Hickman High School and am now attending the University of Missouri, pursuing a major in <a href="https://majors.missouri.edu/information-technology-bs/">Information Technology</a> If you wish to learn more about my background, [click here.](https://github.com/cnrdbf/Background.git)
 
 [Go back to home page](./README.md)
 
@@ -23,7 +23,7 @@ I am very new to coding and programming so my current skills in the IT field are
 - Motion Design
 - Markdown
 
-If you wish to learn more about **other** non-IT related skills and experiences I have, [click here](https://github.com/cnrdbf/Skills-and-Experience.git)
+If you wish to learn more about **other** non-IT related skills and experiences I have, [click here.](https://github.com/cnrdbf/Skills-and-Experience.git)
 
 [Go back to home page](./README.md)
 
@@ -36,4 +36,5 @@ I enjoy watching and playing many sports and video games in my free time. If you
 
 ## Goals
 My career goals are to find a job I enjoy and get paid well in the IT field and eventually create my own business.
+If you wish to learn about what career paths interest me, [click here.](https://github.com/cnrdbf/Goals.git)
 [Go back to home page](./README.md)
